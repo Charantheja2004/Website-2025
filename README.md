@@ -4,7 +4,7 @@ I have created a responsive portfolio website using HTML and CSS (and a bit of J
 🚀 How to Run the Project Locally
 Follow the steps below to view the website on your local machine:
 1. Clone this repository
-git clone https://github.com/your-username/Website-2025.git
+git clone https://github.com/Charantheja2004/Website-2025.git
 2. Go to the project folder
 cd Website-2025
 3. Start a local server using Python
